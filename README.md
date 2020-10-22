@@ -1,2 +1,2 @@
 # monkeyrunner
-eat bananas get huge
+avoid obstacles
